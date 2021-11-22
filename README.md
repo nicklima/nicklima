@@ -1,6 +1,6 @@
 ### Eita mah! Ieiiiii 😜
 
-Me chamo **Nicholas Lima**, casado, natural de Fortaleza-CE. Atualmente moro em SP e faço parte do time de Front-End na [Decode](https://decode.buzz), uma empresa do [BTG Pactual](https://www.btgpactual.com).
+Me chamo **Nicholas Lima**, casado, natural de Fortaleza-CE. Atualmente moro em SP e faço parte do time de Front-End na [CORA](https://www.cora.com.br).
  
 Trabalho como desenvolvedor desde 2005 e já participei de alguns projetos nacionais como o [site do cantor Wesley Safadão](https://www.wesleysafadao.com.br), o projeto [Investimento para VC](https://investimentospara.vc), o [Decode HUB](https://decode.buzz/hub/) (portal  de postagens e artigos da Decode) e alguns tantos outros projetos ao longo desses anos. 
 
