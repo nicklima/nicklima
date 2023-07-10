@@ -1,6 +1,6 @@
 ### Eita mah! Ieiiiii 😜
 
-Meu nome é **Nicholas Lima**, sou casado e natural de Fortaleza, CE. Atualmente, resido em São Paulo e faço parte da equipe de Front-End na Ventures Lab.
+Meu nome é **Nicholas Lima**, sou casado e natural de Fortaleza, CE. Atualmente, resido em São Paulo e faço parte da equipe de Front-End na [Ventures Lab](https://ventureslab.io).
 
 Tenho atuado como desenvolvedor desde 2005, com grande parte da minha experiência concentrada na área de Marketing Digital. 
 Ao longo desses anos, tive a oportunidade de participar e contribuir em projetos de grande destaque em âmbito nacional.
